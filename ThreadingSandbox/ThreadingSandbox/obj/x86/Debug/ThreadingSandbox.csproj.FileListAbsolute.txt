@@ -1,0 +1,5 @@
+F:\Development\Workspace\MSVS\Source\ThreadingSandbox\ThreadingSandbox\bin\Debug\ThreadingSandbox.exe
+F:\Development\Workspace\MSVS\Source\ThreadingSandbox\ThreadingSandbox\bin\Debug\ThreadingSandbox.pdb
+F:\Development\Workspace\MSVS\Source\ThreadingSandbox\ThreadingSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Development\Workspace\MSVS\Source\ThreadingSandbox\ThreadingSandbox\obj\x86\Debug\ThreadingSandbox.exe
+F:\Development\Workspace\MSVS\Source\ThreadingSandbox\ThreadingSandbox\obj\x86\Debug\ThreadingSandbox.pdb

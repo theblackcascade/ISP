@@ -1,0 +1,5 @@
+F:\Development\Workspace\MSVS\Source\PatternsSandbox\PatternsSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Development\Workspace\MSVS\Source\PatternsSandbox\PatternsSandbox\bin\Debug\PatternsSandbox.exe
+F:\Development\Workspace\MSVS\Source\PatternsSandbox\PatternsSandbox\bin\Debug\PatternsSandbox.pdb
+F:\Development\Workspace\MSVS\Source\PatternsSandbox\PatternsSandbox\obj\x86\Debug\PatternsSandbox.exe
+F:\Development\Workspace\MSVS\Source\PatternsSandbox\PatternsSandbox\obj\x86\Debug\PatternsSandbox.pdb

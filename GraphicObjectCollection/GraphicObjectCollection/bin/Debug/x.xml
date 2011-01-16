@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<GraphicObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" X="0" Y="0" Z="0">
+  <RotationAngle>0</RotationAngle>
+  <GlobalX>0</GlobalX>
+  <GlobalY>0</GlobalY>
+  <IsParalax>false</IsParalax>
+</GraphicObject>

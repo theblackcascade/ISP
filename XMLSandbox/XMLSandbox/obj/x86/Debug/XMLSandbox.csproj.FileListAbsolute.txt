@@ -1,0 +1,10 @@
+C:\Users\knifewounded\Documents\Projects\XMLSandbox\XMLSandbox\bin\Debug\XMLSandbox.exe
+C:\Users\knifewounded\Documents\Projects\XMLSandbox\XMLSandbox\bin\Debug\XMLSandbox.pdb
+C:\Users\knifewounded\Documents\Projects\XMLSandbox\XMLSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\knifewounded\Documents\Projects\XMLSandbox\XMLSandbox\obj\x86\Debug\XMLSandbox.exe
+C:\Users\knifewounded\Documents\Projects\XMLSandbox\XMLSandbox\obj\x86\Debug\XMLSandbox.pdb
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\XMLSandbox\XMLSandbox\obj\x86\Debug\XMLSandbox.exe
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\XMLSandbox\XMLSandbox\obj\x86\Debug\XMLSandbox.pdb
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\XMLSandbox\XMLSandbox\bin\Debug\XMLSandbox.exe
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\XMLSandbox\XMLSandbox\bin\Debug\XMLSandbox.pdb
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\XMLSandbox\XMLSandbox\obj\x86\Debug\ResolveAssemblyReference.cache

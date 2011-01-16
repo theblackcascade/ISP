@@ -1,0 +1,105 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="612" fromTop="19" />
+      <File id="d:Miscellaneous Files/f:machine.config/l:C!?Windows?Microsoft.NET?Framework?v4.0.30319?Config?machine.config" caret="34182" fromTop="32" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:StatusAttribute.cs" caret="539" fromTop="18" />
+      <File id="d:Miscellaneous Files/f:doit.exe.config/l:C!?Program Files (x86)?SnowOrange.com Inc?Doit.im?doit.exe.config" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:StatusAttribute.cs" caret="428" fromTop="19" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:StatusAttribute.cs" caret="187" fromTop="7" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="809" fromTop="16" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:StatusAttribute.cs" caret="288" fromTop="6" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:StatusAttribute.cs" caret="589" fromTop="21" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="797" fromTop="21" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="580" fromTop="14" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="580" fromTop="18" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="580" fromTop="17" />
+      <File id="428E814A-0711-4F16-8BAC-AB4E42C110CC/f:Program.cs" caret="432" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Attribute`0" priority="2" />
+      <Item value="public" priority="3" />
+      <Item value="enum" priority="0" />
+      <Item value="Status`0" priority="1" />
+      <Item value="StatusAttribute`0" priority="8" />
+      <Item value="status" priority="1" />
+      <Item value="_status" priority="2" />
+      <Item value="AttributeUsage" priority="1" />
+      <Item value="AllowMultiple" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="AttributeTargets`0" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="GiveMeBUGS`0" priority="1" />
+      <Item value="typeof" priority="1" />
+      <Item value="Program`0" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="toar" priority="0" />
+      <Item value="a" priority="3" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="Fixed" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="null" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AttributesSandbox.StatusAttribute+Status">
+      <Item value="Fixed" priority="0" />
+      <Item value="Bug" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AttributesSandbox.StatusAttribute">
+      <Item value="Status`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AttributeTargets">
+      <Item value="Class" priority="0" />
+      <Item value="All" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="1" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Attribute">
+      <Item value="GetCustomAttribute`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Attribute">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AttributesSandbox.StatusAttribute">
+      <Item value="_status" priority="1" />
+      <Item value="TypeId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AttributesSandbox.StatusAttribute+Status">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

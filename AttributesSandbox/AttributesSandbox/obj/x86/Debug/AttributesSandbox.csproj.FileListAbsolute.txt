@@ -1,0 +1,5 @@
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\AttributesSandbox\AttributesSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\AttributesSandbox\AttributesSandbox\bin\Debug\AttributesSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\AttributesSandbox\AttributesSandbox\bin\Debug\AttributesSandbox.pdb
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\AttributesSandbox\AttributesSandbox\obj\x86\Debug\AttributesSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\AttributesSandbox\AttributesSandbox\obj\x86\Debug\AttributesSandbox.pdb

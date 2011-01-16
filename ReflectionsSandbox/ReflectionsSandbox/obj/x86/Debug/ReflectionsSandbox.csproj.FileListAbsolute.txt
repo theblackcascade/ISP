@@ -1,0 +1,15 @@
+C:\Users\knifewounded\Development\Projects\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.exe
+C:\Users\knifewounded\Development\Projects\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.pdb
+C:\Users\knifewounded\Development\Projects\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\knifewounded\Development\Projects\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.exe
+C:\Users\knifewounded\Development\Projects\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.pdb
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.pdb
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.pdb
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Development\Workspace\MSVS\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.exe
+F:\Development\Workspace\MSVS\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ReflectionsSandbox.pdb
+F:\Development\Workspace\MSVS\Source\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.exe
+F:\Development\Workspace\MSVS\Source\ReflectionsSandbox\ReflectionsSandbox\bin\Debug\ReflectionsSandbox.pdb
+F:\Development\Workspace\MSVS\Source\ReflectionsSandbox\ReflectionsSandbox\obj\x86\Debug\ResolveAssemblyReference.cache

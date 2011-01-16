@@ -1,0 +1,92 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Playlist.cs" caret="158" fromTop="9" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Player.cs" caret="993" fromTop="19" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Program.cs" caret="0" fromTop="0" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Track.cs" caret="692" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Track.cs" caret="259" fromTop="9" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Playlist.cs" caret="382" fromTop="20" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Player.cs" caret="559" fromTop="18" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Playlist.cs" caret="209" fromTop="10" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Playlist.cs" caret="158" fromTop="9" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Player.cs" caret="993" fromTop="19" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Track.cs" caret="137" fromTop="6" />
+      <File id="062B2C74-4ACC-4899-8A97-AF242DA79FE3/f:Track.cs" caret="692" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="11" />
+      <Item value="int" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="set" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="void" priority="4" />
+      <Item value="Track`0" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="Playlist`0" priority="2" />
+      <Item value="typeof" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="_currentPlaylist" priority="3" />
+      <Item value="serializer" priority="0" />
+      <Item value="stream" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="XmlSerializer`0" priority="0" />
+      <Item value="serilizer" priority="0" />
+      <Item value="foreach" priority="0" />
+      <Item value="track" priority="0" />
+      <Item value="Console`0" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="DuplicateWaitObjectException`0" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Timer" priority="3" />
+      <Item value="Timers" priority="0" />
+      <Item value="Timer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ThreadingSandbox.Playlist">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize`0" priority="0" />
+      <Item value="Deserialize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="OpenRead`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="AutoReset" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="Stop`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,7 @@
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ConfigSandbox\ConfigSandbox\bin\Debug\ConfigSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ConfigSandbox\ConfigSandbox\bin\Debug\ConfigSandbox.pdb
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ConfigSandbox\ConfigSandbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ConfigSandbox\ConfigSandbox\obj\x86\Debug\ConfigSandbox.exe
+C:\Users\Degtyarev\Dropbox\Public\Dev\Source\ConfigSandbox\ConfigSandbox\obj\x86\Debug\ConfigSandbox.pdb
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\ConfigSandbox\ConfigSandbox\obj\x86\Debug\ConfigSandbox.exe
+C:\Users\Degtyarev\Development\Workspace\MSVS\Source\ConfigSandbox\ConfigSandbox\obj\x86\Debug\ConfigSandbox.pdb

@@ -1,0 +1,123 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1579" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1643" fromTop="14" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1611" fromTop="19" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1355" fromTop="18" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1355" fromTop="13" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1355" fromTop="14" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1387" fromTop="31" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="52" fromTop="2" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="422" fromTop="15" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="377" fromTop="15" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="1463" fromTop="29" />
+      <File id="FA3BE7A2-5C73-41A5-B7F1-3F8E542CB0B7/f:Program.cs" caret="650" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="5" />
+      <Item value="new" priority="7" />
+      <Item value="document" priority="7" />
+      <Item value="XDocument" priority="0" />
+      <Item value="xmlReader" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="IO" priority="0" />
+      <Item value="XStreamingElement`0" priority="4" />
+      <Item value="SearchOption`0" priority="0" />
+      <Item value="x" priority="6" />
+      <Item value="XName" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="o" priority="0" />
+      <Item value="item" priority="7" />
+      <Item value="Console`0" priority="5" />
+      <Item value="items" priority="1" />
+      <Item value="query" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="XNamespace`0" priority="1" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="from" priority="2" />
+      <Item value="ns" priority="6" />
+      <Item value="select" priority="2" />
+      <Item value="Tweet`0" priority="0" />
+      <Item value="XElement`0" priority="1" />
+      <Item value="sub" priority="1" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="Tweet" priority="0" />
+      <Item value="public" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Twi`0" priority="1" />
+      <Item value="webClient" priority="2" />
+      <Item value="WebClient`0" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="Uri" priority="0" />
+      <Item value="XDocument`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XDocument">
+      <Item value="CreateReader`0" priority="0" />
+      <Item value="Descendants`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XDocument">
+      <Item value="Load`0" priority="1" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Select`2" priority="5" />
+      <Item value="Elements`1" priority="1" />
+      <Item value="Where`1" priority="3" />
+      <Item value="Descendants`1" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="First`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Attribute`0" priority="0" />
+      <Item value="Name" priority="3" />
+      <Item value="Value" priority="5" />
+      <Item value="Element`0" priority="3" />
+      <Item value="Descendants`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="3" />
+      <Item value="ReadKey`0" priority="0" />
+      <Item value="Write`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadDataCompleted" priority="0" />
+      <Item value="DownloadStringCompleted" priority="0" />
+      <Item value="DownloadStringAsync`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.DownloadStringCompletedEventArgs">
+      <Item value="Result" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
